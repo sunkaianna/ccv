@@ -5,7 +5,7 @@
 static void exit_with_help(void)
 {
 	printf(
-	"\n  \033[1mUSAGE\033[0m\n\n    icfcreate [OPTION...]\n\n"
+	"\n  \033[1mUSAGE\033[0m\n\n    scdcreate [OPTION...]\n\n"
 	"  \033[1mREQUIRED OPTIONS\033[0m\n\n"
 	"    --positive-list : text file contains a list of positive files in format:\n"
 	"                      <file name> center-x center-y horizontal-axis-length vertical-axis-length object-roll object-pitch object-yaw \\newline\n"
